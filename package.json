@@ -1,0 +1,15 @@
+{
+  "name": "react-css-spin",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lockround/react-css-spin.git"
+    },
+    "homepage": "https://github.com/lockround/react-css-spin#readme",
+    "peerDependencies": {
+        "react": "^16.6.1",
+        "react-dom": "^16.6.1"
+    }
+}
